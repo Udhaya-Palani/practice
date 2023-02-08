@@ -1,0 +1,15 @@
+ul{
+    background-color:lightslategray;
+    height:800px;
+    width:1800px;
+    list-style-type:none;
+    margin: 20px;
+    padding: 20px;
+}
+ul li{
+    color: white;
+    display: block;
+    background-color:rgb(138, 128, 116);
+    padding: 20px;
+    width: 300px;
+}

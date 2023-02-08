@@ -1,0 +1,39 @@
+ul{
+background-color: darkgray;
+list-style-type:none;
+padding: 20px;
+
+}
+ul li{
+display: inline;
+padding: 20px;
+}
+ul li:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.div1{
+    background-color: darkgreen;
+    padding:20px;
+    height: 200px;
+    width: 200px; 
+}
+
+.div2{
+    background-color: blueviolet;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+.div3{
+    background-color: chartreuse;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+.parent{
+    background-color: blue;
+}
+div{
+    float: left;
+}
