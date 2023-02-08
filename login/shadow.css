@@ -1,0 +1,27 @@
+body{
+    background-image:url("https://www.teahub.io/photos/full/56-560861_australia-city-at-night.jpg") ;
+    background-size: cover;
+}
+.shadow{
+    width: 500px;
+    height: 500px;
+    margin: 2px auto;
+    background-color: rgba(0,0,0,.5);
+    color:white;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-bottom:20px;
+    box-shadow:10px ;
+    padding: 100px 100pz 100px;
+}
+.btn{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    margin-top:30px;
+    padding:15px 20px;
+    border-radius: 8px;
+    border:1px solid beige;
+    box-shadow:10px;
+
+}

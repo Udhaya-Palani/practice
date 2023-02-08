@@ -1,0 +1,16 @@
+body{
+    background-color:wheat;
+}
+.container{
+    background-color: azure;
+    width: 500px;
+    height:500px;
+    text-align: center;
+    margin-left:750px;
+    margin-top:200px;
+    margin-bottom:200px;
+}
+input{
+    margin-bottom: 20px;
+    padding: 10px;
+}

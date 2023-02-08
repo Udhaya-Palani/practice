@@ -1,0 +1,33 @@
+table,th,td{
+    border:1px solid wheat;
+    border-collapse:collapse;
+}
+table,th,td{
+    text-align:center;
+}
+table,th{
+    text-size-adjust:1px;
+}
+#color{
+    text-decoration:green
+}
+.button1{
+    background-color:green;
+    color:white;
+}
+.button2{
+     background-color:yellow;
+    color:black;
+}
+.button3{
+    background-color:red;
+    color:white;
+}
+.button4{
+    background-color:yellow;
+    color:black;
+}
+.button5{
+    background-color:red;
+    color:white;
+}

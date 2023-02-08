@@ -1,0 +1,51 @@
+body{
+   background-image:url("https://www.designmantic.com/blog/wp-content/uploads/2020/01/Photography-Logos.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.container{
+    width:100%;
+    height:100vh;
+    background-color: rgba(0,0,0,0.5);
+    margin:auto;
+    padding:50px;
+}
+ul{
+    list-style-type: none;
+    padding:30px;
+    background-color: black;
+}
+ul li{
+    color:white;
+    display: inline;
+    margin-left: 10px;
+}
+li{
+    float:right;
+  
+}
+.left{
+    float:left;
+}
+.container h1{
+    color:blue;
+    text-align: center;
+}
+.container p{
+    text-align: center;
+    color:bisque
+}
+.btn{
+    text-align: center; font-size:15px;
+    color:white;
+    margin: 0 auto;
+    width: 300px;
+    padding:15px 25px;
+    border-radius:5px;
+    border:1px solid yellow;
+  
+    background-color: rgba(0,0,0,0.5);
+}
+header a{
+    color:white;
+}

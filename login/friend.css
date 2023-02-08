@@ -1,0 +1,54 @@
+.container{
+    background-color: aquamarine;
+    width: 800px;
+    height:550px;
+    margin:5px;
+    text-align: center;
+    padding-top:300px;
+    float: left;
+    color: white;
+}
+.btn{
+    text-align: center;
+}
+button{
+    background-color: aquamarine;
+    font-size:20px;
+    color:white;
+    margin-top:20px;
+    padding:15px 20px;
+    border-radius:50px;
+    border:1px solid beige;
+    box-shadow:2px;
+    box-sizing: border-box;
+}
+.second{
+    background-color: bisque;
+    float:left;
+    margin-right: 5px;
+    text-align: center;
+    margin-top: 5px;
+    width: 1064px;
+    height:850px;
+}
+.co{
+    color: aquamarine;
+    padding-top: 50px;
+}
+.col{
+    color: white;
+    font-size:20px;
+}
+.input{
+    text-align: center;
+    width:100%;
+    font-size:medium;;
+    padding:10px 10px;
+    margin-top:20px;
+    box-sizing: border-box;
+}
+input{
+    width:350px;
+    padding:15px;
+    border-radius: 8px;
+}
